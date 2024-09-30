@@ -1,0 +1,2 @@
+# flashcard
+sandrim.mdm
